@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "Persistência de Dados com SQLite e FastAPI",
+      "description": "Adicione persistência SQLite à API de livros em FastAPI, implementando consultas SQL parametrizadas e operações CRUD.",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-10-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
